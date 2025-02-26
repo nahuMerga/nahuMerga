@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Business Creation, Marketing**
 
-- 👨‍💻 All of my projects are available at [https://nahumerga.github.io/portfolio/](https://nahumerga.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://nahumerga.github.io/portfolio/](https://nahomer.vercel.app)
 
 - 💬 Ask me about **django,python,flutter**
 
