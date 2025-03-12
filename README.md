@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nahom Merga Woldeyes</h1>
 <h3 align="center">A self-taught programmer with a deep passion for technology and a relentless drive to learn.</h3>
 
-- 🔭 I’m currently working on **Django, api pen-testing,Full-Stack React,**
+- 🔭 I’m currently working on **Django, api pen-testing,Full-Stack React-Django and n8n ,**
 
 - 🌱 I’m currently learning **Django, PostgreSQL, React**
 
-- 👯 I’m looking to collaborate on **Web applications, Mobile Application**
+- 👯 I’m looking to collaborate on **Web applications**
 
 - 🤝 I’m looking for help with **Business Creation, Marketing**
 
 - 👨‍💻 All of my projects are available at (https://nahomer.vercel.app)
 
-- 💬 Ask me about **django,python,flutter**
+- 💬 Ask me about **django,python, React, c++, java **
 
 - 📫 How to reach me **nahumyne@gmail.com**
 
